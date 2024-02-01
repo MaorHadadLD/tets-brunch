@@ -4,7 +4,8 @@ import React from 'react'
 export default function app() {
   return (
     <View>
-      <Text>app</Text>
+      <Text>dev-brunch</Text>
+      <Text>test</Text>
     </View>
   )
 }
